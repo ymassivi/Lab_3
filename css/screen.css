@@ -1,3 +1,5 @@
+@import  url('https://fonts.googleapis.com/css2?family=Crimson+Pro&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -195,6 +197,7 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  font-size: 20px;
 }
 
 label {
@@ -206,12 +209,21 @@ body {
   background-color: #DAA520;
   text-align: center;
   padding: 13px;
-  font-family: Roboto,Barlow,Lata;
+  font-family: Crimson, 'Roboto';
 }
 /* ===== MODULAR STYLES ===== */
 h1,li,p{
   padding:8px;
+  dispay :block;
+  line-height: normal;
 
+}
+h1{
+  font-size: 2.5rem;
+  padding:15px;
+}
+p{
+  font-size: 1.8rem;
 }
 input{
   border: none;
