@@ -201,7 +201,7 @@ html {
 }
 
 label {
-  display: block;
+  display: inline;
 }
 
 /* ===== LAYOUT STYLES ====== */
@@ -215,15 +215,16 @@ body {
 h1,li,p{
   padding:8px;
   dispay :block;
-  line-height: normal;
+  line-height: 2.5rem;
 
 }
 h1{
   font-size: 2.5rem;
-  padding:15px;
+  padding:0.8rem;
 }
 p{
   font-size: 1.8rem;
+  padding: 1.5rem;
 }
 input{
   border: none;
