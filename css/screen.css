@@ -205,12 +205,16 @@ label {
 body {
   background-color: #F1F1F1;
   text-align: center;
-  padding: 20px;
+  padding: 13px;
   font-family: Roboto,Barlow,Lata;
 }
 /* ===== MODULAR STYLES ===== */
 h1,li,p{
-  display:block;
-  padding:15px;
+  padding:8px;
+}
+input{
+  border: none;
+  padding: 10px 15px;
+  border-radius: 15px; 
 }
 /* ===== STATE STYLES ======= */
