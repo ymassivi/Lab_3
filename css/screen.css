@@ -215,7 +215,7 @@ body {
 /* ===== MODULAR STYLES ===== */
 h1,li,p{
   padding:8px;
-  dispay :block;
+  display :block;
   line-height: 3.22rem;
 
 }
