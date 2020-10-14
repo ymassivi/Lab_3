@@ -203,7 +203,7 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 body {
-  background-color: #F1F1F1;
+  background-color: #DAA520;
   text-align: center;
   padding: 13px;
   font-family: Roboto,Barlow,Lata;
@@ -211,10 +211,13 @@ body {
 /* ===== MODULAR STYLES ===== */
 h1,li,p{
   padding:8px;
+
 }
 input{
   border: none;
   padding: 10px 15px;
-  border-radius: 15px; 
+
+  background-color: #FFD700;
 }
+
 /* ===== STATE STYLES ======= */
