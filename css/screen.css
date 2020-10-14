@@ -210,7 +210,7 @@ body {
   background-color: #DAA520;
   text-align: center;
   padding: 13px;
-  font-family: Crimson, 'Roboto';
+  font-family: Crimson, 'Roboto',sans-serif;
 }
 /* ===== MODULAR STYLES ===== */
 h1,li,p{
