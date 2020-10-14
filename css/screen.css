@@ -27,6 +27,7 @@ textarea {
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
+
 }
 
 /**
@@ -229,8 +230,8 @@ p{
 input{
   border: none;
   padding: 10px 15px;
-
   background-color: #FFD700;
+
 }
 
 /* ===== STATE STYLES ======= */
