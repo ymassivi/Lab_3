@@ -192,7 +192,6 @@ img, audio, video {
 */
 
 html {
-  font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
@@ -207,7 +206,11 @@ body {
   background-color: #F1F1F1;
   text-align: center;
   padding: 20px;
+  font-family: Roboto,Barlow,Lata;
 }
 /* ===== MODULAR STYLES ===== */
-
+h1,li,p{
+  display:block;
+  padding:15px;
+}
 /* ===== STATE STYLES ======= */
