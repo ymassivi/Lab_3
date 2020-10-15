@@ -207,7 +207,7 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 body {
-  background-color: #DAA520;
+  background-color: #F5F5F5;
   text-align: center;
   padding: 13px;
   font-family: Crimson, 'Roboto',sans-serif;
@@ -230,7 +230,7 @@ p{
 input{
   border: none;
   padding: 10px 15px;
-  background-color: #FFD700;
+  background-color: #A9A9A9;
 
 
 }
